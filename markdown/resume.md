@@ -1,100 +1,69 @@
-Johnny Coder
+Andrea Zonca
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  High Performance Computing expert with focus on
+>  Astrophysics and Cosmology distributed data processing.
+>  Experienced instructor of Python for HPC.
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2006-2009
+:   **PhD, Astrophysics**; University of Milan/University Paris VI
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Thesis title: Advanced modelling and combined data analysis of
+    Planck focal plane instruments*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+1998-2004
+:   **Aerospace Engineering Master**; Politecnico di Milano
 
-    *Minor: Awesomeology*
+    *Thesis at the European Space Agency Cuncurrent Design Facility,
+    ESTEC.*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**High Performance Computer Specialist, UC San Diego, since 2013:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Staff at the San Diego Supercomputer Center, research topics:
 
-* First item
+* Cosmic Microwave Background data processing for the Simons Observatory for
+  Cosmology
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Data processing pipeline development for the Infrared imaging spectrometer
+  IRIS for the Thirty Meter Telescope.
 
-**That Other Job You Had**
+Also working for XSEDE focusing on scientific data processing on the Cloud
+(Openstack) with Kubernetes, JupyterHub and `dask`.
 
-Also with a short description.
+**Postdoc at the Department of Physics, UC Santa Barbara, 2009-2013**
 
-Technical Experience
---------------------
+Distributed processing of ESA Planck satellite timelines on supercomputers at NERSC.
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Teaching experience
+-------------------
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+* Taught 10 Software Carpentry workshops on `bash`, Python, `git`
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+* Taught "Python for High Performance Computing" and "Version control with `git`" at
+  the week-long yearly "SDSC Summer Institute" from 2014 to 2018.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+* Taught "Spark for scientific computing" at the "SDSC Summer Institute" in 2016 and 2017,
+  recorded a session on Spark for the "Data Science" specialization on Coursera.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+* Director of the "SDSC Summer Institute" in 2017
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+* Taught "Hands-on Tutorial Deploying Kubernetes and JupyterHub on Jetstream" at the
+  Gateways 2018 conference.
 
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* Taught "Introduction to High Performance Computing" at the UC San Diego library in 2017
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <zonca@sdsc.edu>\
+> San Diego, California, USA
